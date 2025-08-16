@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download Dataset
-Download the ASL Alphabet Dataset and extract to:
+Download the ASL Alphabet Dataset https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset/ and extract to:
 ```
 ASL_Alphabet_Dataset/
 ├── asl_alphabet_train/
