@@ -4,6 +4,12 @@ Real-time American Sign Language alphabet detection using deep learning and comp
 
 # Results
 
+![Result](results/B.png)
+![Result](results/C.png)
+![Result](results/D.png)
+![Result](results/W.png)
+![Result](results/A.png)
+
 
 
 ## Quick Start
