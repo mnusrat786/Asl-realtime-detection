@@ -16,8 +16,8 @@ Real-time American Sign Language alphabet detection using deep learning and comp
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
-cd asl-detection-system
+git clone https://github.com/mnusrat786/Asl-realtime-detection.git
+cd Asl-realtime-detection
 ```
 
 ### 2. Setup Environment
@@ -64,7 +64,7 @@ python final_asl_detector.py
 - **95%+ accuracy** on training data
 - **Cross-platform** compatibility
 
-## 🔧 Alternative Usage
+## Alternative Usage
 
 ### Test with Images
 ```bash
@@ -81,13 +81,13 @@ streamlit run simple_streamlit_asl.py
 python camera_test_cli.py
 ```
 
-## 📋 Controls
+## Controls
 - **'q'**: Quit application
 - **'+'**: Increase confidence threshold
 - **'-'**: Decrease confidence threshold
 - **'s'**: Save current frame
 
-## 🛠️ Troubleshooting
+## 🛠Troubleshooting
 
 ### Camera Issues
 ```bash
@@ -99,13 +99,13 @@ python camera_test_cli.py
 pip install tensorflow-cpu
 ```
 
-## 📊 Model Performance
+##  Model Performance
 - **Training Accuracy**: 95-99%
 - **Validation Accuracy**: 90-95%
 - **Real-time FPS**: 15-30
 - **Model Size**: ~4MB
 
-## 🎯 System Requirements
+## System Requirements
 - Python 3.8+
 - 8GB RAM (16GB recommended)
 - Webcam
@@ -113,4 +113,3 @@ pip install tensorflow-cpu
 
 ---
 
-**Happy Signing! 🤟**
