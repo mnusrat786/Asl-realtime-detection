@@ -1,8 +1,12 @@
-# 🤟 ASL Real-Time Detection System
+#  ASL Real-Time Detection System
 
 Real-time American Sign Language alphabet detection using deep learning and computer vision.
 
-## 🚀 Quick Start
+# Results
+
+
+
+## Quick Start
 
 ### 1. Clone Repository
 ```bash
@@ -48,7 +52,7 @@ python asl_dataset_trainer.py
 python final_asl_detector.py
 ```
 
-## 🎯 Features
+## Features
 - **29 ASL signs** recognition (A-Z + del, nothing, space)
 - **Real-time detection** using webcam
 - **95%+ accuracy** on training data
