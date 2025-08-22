@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import json
 from typing import Tuple, List, Dict
 import pickle
-
 class ASLDatasetTrainer:
     """
     ASL Alphabet Dataset Trainer using CNN
