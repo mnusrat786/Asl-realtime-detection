@@ -1,4 +1,4 @@
-# 🤟 ASL (American Sign Language) Real-Time Detection System
+#  ASL (American Sign Language) Real-Time Detection System
 
 ## Complete Documentation & Setup Guide
 
