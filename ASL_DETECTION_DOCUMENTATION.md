@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project implements a **real-time ASL alphabet detection system** that can recognize American Sign Language letters (A-Z) plus special gestures ("del", "nothing", "space") using computer vision and deep learning.
 
@@ -41,7 +41,7 @@ This project implements a **real-time ASL alphabet detection system** that can r
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -65,7 +65,7 @@ This project implements a **real-time ASL alphabet detection system** that can r
 
 ---
 
-## 📋 Prerequisites
+##  Prerequisites
 
 ### System Requirements:
 - **Operating System**: Windows 10/11, macOS 10.14+, or Linux
@@ -83,7 +83,7 @@ This project implements a **real-time ASL alphabet detection system** that can r
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
 ### Step 1: Environment Setup
 
@@ -149,7 +149,7 @@ print('Installation successful!')
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 ### ASL Alphabet Dataset Structure:
 - **Total Images**: ~240,000+
@@ -179,7 +179,7 @@ Class Distribution:
 
 ---
 
-## 🧠 Model Training Process
+##  Model Training Process
 
 ### Step 1: Dataset Preparation
 
@@ -506,7 +506,7 @@ asl-detection-system/
 
 ---
 
-## ⚡ Performance Optimization
+## Performance Optimization
 
 ### Training Optimizations:
 1. **Mixed Precision**: Faster training on compatible GPUs
@@ -540,7 +540,7 @@ def predict_efficient(self, image):
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 ### Short-term Enhancements:
 1. **Hand Tracking Integration**: Use MediaPipe for better hand detection
